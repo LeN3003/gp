@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Collectable
+  - Key
+  - Coin
+  - Ladder
+  - Powerup
+  - SpeedPowerup
+  - Door
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Damageable
+  - Dead
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2386999659
+    locked: 0
+  - name: Decoration
+    uniqueID: 745472989
+    locked: 0
+  - name: Platforms
+    uniqueID: 459454151
+    locked: 0
+  - name: Enemy
+    uniqueID: 2085484529
+    locked: 0
+  - name: Coin
+    uniqueID: 2055626943
+    locked: 0
+  - name: Player
+    uniqueID: 1325818393
+    locked: 0
+  - name: Foreground Decoration
+    uniqueID: 2903908083
+    locked: 0
