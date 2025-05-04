@@ -4,12 +4,12 @@ A classic 2D platformer game developed using **Unity Game Engine** and **C#**, f
 
 🎮 Features
 
-- ✅ Player and enemy movement mechanics
-- ✅ Power-ups to enhance gameplay
-- ✅ Ladder climbing system
-- ✅ Menu and Game Over screens
-- ✅ Life system and coin counter
-- ✅ Key and door mechanics for level progression
+- Player and enemy movement mechanics
+- Power-ups to enhance gameplay
+- Ladder climbing system
+- Menu and Game Over screens
+- Life system and coin counter
+- Key and door mechanics for level progression
 
 🛠 Tech Stack
 
