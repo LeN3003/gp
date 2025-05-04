@@ -34,3 +34,5 @@ Installation
 📸 Screenshots
 
 ![Platform Game Screenshot](./screenshot.png)
+(./screenshot_2.png)
+(./screenshot_3.png)
